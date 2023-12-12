@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+
+}
+.heading{
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+#start,#numberOfObjects,#status{
+    font-size: 18px;
+
+}
+.copyright-footer{
+position: fixed;
+text-align: center;
+color: red;
+background-color: peru;
+bottom: 0;
+width:100%;
+line-height: 2;
+
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
